@@ -7,8 +7,8 @@
     <p>Act the similar way to middleware concept, you can call some function before axios request and axios response handler, but here is the cons - if you are making a batch of API calls - every of them will trigger NProgress start and end methods. Which is not good as you can understand.</p>
     </li>
     <li>
-    <h3><b>Something</b></h3>
-    <p>Something</p>
+    <h3><b>JSON Server delay flag</b></h3>
+    <p>You can use json-server delay flag to imitate slow internet connection speed.</p>
     </li>
     <li>
     <h3><b>Something</b></h3>
